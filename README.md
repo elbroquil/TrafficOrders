@@ -46,5 +46,6 @@ For the 'Newspapers' tab, clicking 'Generate Forms' will copy, prefill and save 
 
 ![alt text](https://github.com/elbroquil/TrafficOrders/blob/main/InstructionPictures/Prefilled%20Form.png)
 
-
+##Code
+Copy of the VBA code is available in the Code Export folder. The original code is tied to the User Form: Projects -> Visual Basic -> UserForm1.  
        
